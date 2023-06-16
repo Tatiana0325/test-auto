@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@fancyapps/fancybox": "^3.5.7",
+    "@fancyapps/ui": "^5.0.19",
+    "slick-carousel": "^1.8.1"
+  }
+}
